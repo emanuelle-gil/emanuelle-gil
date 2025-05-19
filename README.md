@@ -108,7 +108,7 @@ Me chamo Emanuelle Gil, tenho 21 anos e sou natural de Itacoatiara-AM. Sou técn
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=emanuelle-gil&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=emanuelle-gil&show_icons=true&theme=synthwave&locale=pt-br" 
   />
 
 <img 
