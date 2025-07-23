@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Me chamo Emanuelle Gil, tenho 21 anos e sou natural de Itacoatiara-AM. Sou técnica em Informática pelo IFAM e atualmente estou no 7º período do curso de Sistemas de Informação na UFAM. Tenho interesse em desenvolvimento back-end, especialmente com C#, .NET e ASP.NET Core, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+Me chamo Emanuelle Gil, tenho 22 anos e sou natural de Itacoatiara-AM. Sou técnica em Informática pelo IFAM e atualmente estou no 8º período do curso de Sistemas de Informação na UFAM. Tenho interesse em desenvolvimento back-end, especialmente com C#, .NET e ASP.NET Core, e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
 
 <p align="left">
     <a href="https://github.com/emanuelle-gil?tab=repositories&sort=stargazers">
